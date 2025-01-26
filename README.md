@@ -1,4 +1,4 @@
-# 🌍 Investment Dashboard: Exploring Oil & Gas Sector Trends
+# 🌍 Investment Dashboard: Exploring Oil & Gas Sector Trends 
 
 ## 📋 Project Objective
 This dashboard analyzes investments by **a leading Canadian institutional investor** in oil and gas companies listed in the **Global Oil and Gas Exit List (GOGEL) 2024**. The goal is to provide insights into investment trends, upstream and midstream activities, and climate strategy opportunities.
